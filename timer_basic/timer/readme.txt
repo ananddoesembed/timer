@@ -1,0 +1,1 @@
+example with basic timer(timer 6 , look configuration only activte option is there )
